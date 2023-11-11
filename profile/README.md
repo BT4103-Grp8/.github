@@ -12,7 +12,7 @@ There are currently 5 different repositories listed below:
 | [report-generator](https://github.com/BT4103-Grp8/report-generator) | Contains the python code which formats the front-end user dashboard into a markdown format for the user to download as a PDF file |
 
 # To get started
-To get access: Feel free to email ask for access at longja05@gmail.com
+To get access: Feel free to email longja05@gmail.com to ask for access
 
 Step 1: Download the following repositories into local machine
 - (https://github.com/BT4103-Grp8/user-portal/tree/main)
