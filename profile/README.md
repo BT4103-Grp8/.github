@@ -28,6 +28,8 @@ Step 2: Order of project execution
 4) report-generator-main [Use report-generator-integration-google-cloud for google cloud setup]
 5) user-portal-main [Use user-portal-local-dev for local setup]
 
+Step 3: Follow the instructions found on the ReadMe of each repository to execute the code.
+
 # Additional Notes
 
 ## Difference between user-portal branches
