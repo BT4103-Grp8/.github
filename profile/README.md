@@ -33,14 +33,16 @@ Step 3: Follow the instructions found on the ReadMe of each repository to execut
 # Additional Notes
 
 ## Difference between user-portal branches
-user-portal-main: Uses google cloud functions for web-scraper and info-extraction (without Dolly)
-user-portal-local-dev: Uses server.py to run all 4 python scripts
+**user-portal-main**: Uses google cloud functions for web-scraper and info-extraction (without Dolly)
+
+**user-portal-local-dev**: Uses server.py to run all 4 python scripts
 
 For local setup, use user-portal-local-dev branch, server.py file has all the scripts that needs to be customised before execution.
 
 ## Difference between report-generator branches
-report-generator-main: works with user-portal-main
-report-generator-integration-google-cloud: edited to work as a google cloud function but still facing some issues which can be resolved by using another library (instead of pyhtml2pdf) to convert the html to pdf which does not download the pdf locally.
+**report-generator-main**: works with user-portal-main
+
+**report-generator-integration-google-cloud**: edited to work as a google cloud function but still facing some issues which can be resolved by using another library (instead of pyhtml2pdf) to convert the html to pdf which does not download the pdf locally.
 
 # Mongo DB
 The details of the MongoDB Atlas we have made use to store our data is as follows:
