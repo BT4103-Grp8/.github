@@ -44,6 +44,13 @@ For local setup, use user-portal-local-dev branch, server.py file has all the sc
 
 **report-generator-integration-google-cloud**: edited to work as a google cloud function but still facing some issues which can be resolved by using another library (instead of pyhtml2pdf) to convert the html to pdf which does not download the pdf locally.
 
+## Versions used
+- python v3.9.13
+- node v20.8.0
+- mongod v7.0.2
+
+Versions of individual packages used for each repository can be found in their individual ReadMe.
+
 # Mongo DB
 The details of the MongoDB Atlas we have made use to store our data is as follows:
 Organization ID: 60ae8bc742cb863bc3886a0b
